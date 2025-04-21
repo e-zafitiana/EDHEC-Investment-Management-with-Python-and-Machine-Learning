@@ -44,7 +44,8 @@ investment-management-python-ml/
 ├── edhec_risk_kit/         # Reusable functions
 ├── data/                   # Datasets
 └── utils/                  # Python helpers
-##
+```
+
 ##🧰 Tech Stack
 	•	Python, Jupyter Notebook
 	•	NumPy, Pandas, Matplotlib, Seaborn, Plotly
