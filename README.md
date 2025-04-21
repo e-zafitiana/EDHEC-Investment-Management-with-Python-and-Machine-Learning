@@ -54,7 +54,7 @@ investment-management-python-ml/
 
 ---
 
-##🎓 Program
+## 🎓 Program
 Coursera Specialization – EDHEC Business School
 [View the program](https://www.coursera.org/specializations/investment-management-python-machine-learning)  
 
