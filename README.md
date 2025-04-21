@@ -51,13 +51,7 @@ investment-management-python-ml/
 	•	NumPy, Pandas, Matplotlib, Seaborn, Plotly
 	•	Scikit-learn, Statsmodels
 	•	NLP with spaCy & NLTK (text data processing)
-
----
-
-## 🎓 Program
-Coursera Specialization – EDHEC Business School
-[View the program](https://www.coursera.org/specializations/investment-management-python-machine-learning)  
-
+ 
 ---
 
 ## ✅ Certification
