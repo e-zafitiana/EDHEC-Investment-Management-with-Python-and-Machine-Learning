@@ -1,4 +1,4 @@
-# 📘 Investment Management with Python and Machine Learning
+# Investment Management with Python and Machine Learning
 ![EDHEC banner](https://user-images.githubusercontent.com/59873708/182828436-c547c5ad-b4d7-418e-bc4e-3ff4e9ab9a9e.png)
 
 ## 🔍 Overview
