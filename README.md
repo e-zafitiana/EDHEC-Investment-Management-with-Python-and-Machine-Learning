@@ -39,7 +39,7 @@ The program combines financial theory, Python-based modeling, and machine learni
 investment-management-python-ml/
 ├── Course 1 - Portfolio Basics/
 ├── Course 2 - Advanced Portfolios/
-├── Course 3 - ML in Finance/
+├── Course 3 - ML for Finance/
 ├── Course 4 - Alternative Data/
 ├── edhec_risk_kit/         # Reusable functions
 ├── data/                   # Datasets
