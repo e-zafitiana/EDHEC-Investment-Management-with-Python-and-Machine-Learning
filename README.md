@@ -41,11 +41,7 @@ investment-management-python-ml/
 ├── Course 2 - Advanced Portfolios/
 ├── Course 3 - Machine Learning/
 ├── Course 4 - Alternative Data/
-├── edhec_risk_kit/         # Reusable functions
-├── data/                   # Datasets
-└── utils/                  # Python helpers
 ```
-
 ##🧰 Tech Stack
 	•	Python, Jupyter Notebook
 	•	NumPy, Pandas, Matplotlib, Seaborn, Plotly
