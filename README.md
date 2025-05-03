@@ -37,6 +37,7 @@ The program combines financial theory, Python-based modeling, and machine learni
 
 ```bash
 investment-management-python-ml/
+├── Literature
 ├── Course 1 - Portfolio Basics/
 ├── Course 2 - Advanced Portfolios/
 ├── Course 3 - Machine Learning/
